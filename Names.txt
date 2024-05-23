@@ -2,3 +2,5 @@ divya
 navya
 pavan
 soumith
+deepika
+sneha
